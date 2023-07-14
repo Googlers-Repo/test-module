@@ -1,0 +1,10 @@
+id=mmrl_test_module
+name=MMRL Test Module
+version=1.0.0
+versionCode=100
+author=Der_Googler
+description=This module is for testing purpose only
+changeBoot=false
+needRamdisk=false
+support=https://github.com/Googlers-Repo/test-module
+mmrlNoComments=true
