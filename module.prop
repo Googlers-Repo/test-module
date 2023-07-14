@@ -7,4 +7,6 @@ description=This module is for testing purpose only
 changeBoot=false
 needRamdisk=false
 support=https://github.com/Googlers-Repo/test-module
+
 mmrlNoComments=true
+mmrlCoverhttps://www.microtool.de/wp-content/uploads/2017/07/Test.png
