@@ -1,5 +1,9 @@
 # Markdown: Syntax
 
+## Required modules
+
+- <a module="node_on_android" href="https://github.com/Magisk-Modules-Alt-Repo/node">Node.js</a>
+
 *   [Overview](#overview)
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
